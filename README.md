@@ -1,27 +1,29 @@
-Tkinter Calculator App
-A simple graphical calculator built using Python and Tkinter. This calculator supports basic arithmetic operations including addition, subtraction, multiplication, and division.
+# 🧮 Tkinter Calculator App
+A simple, beginner-friendly graphical calculator built using Python and Tkinter. This calculator supports basic arithmetic operations and demonstrates core concepts of event-driven programming and GUI development in Python.
 
-Demo
-You can add a screenshot here if you want.
+## ✨ Features
+- User-friendly GUI built with Tkinter
+- Supports basic arithmetic operations:
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Decimal numbers (.)
+- Parentheses (() for operation precedence)
 
-Features
-User-friendly GUI using Tkinter
+✅ Other features:
+- Input display area
+- = button to evaluate the result
+- C button to clear the screen
+- Graceful error handling for invalid expressions
 
-- Supports:
-- Addition +
-- Subtraction -
-- Multiplication *
-- Division /
-- Decimal numbers .
-- Parentheses () for operation precedence
-- Error handling for invalid inputs
-- Clear button to reset the screen
+## 🛠 Tech Stack
+- Layer	Technology
+- Language	Python
+- GUI Library	Tkinter (Standard Python GUI)
 
-Tech Stack
-- Python
-- Tkinter (Python’s standard GUI library)
-
-Learnings
--Built a basic calculator GUI
-- Practiced event-driven programming in Python
-- Used eval() carefully to compute string-based expressions
+🧠 What I Learned
+- Building a responsive GUI with Tkinter widgets and layout managers
+- Using eval() cautiously to compute expressions
+- Handling user input and binding button actions
+- Understanding event-driven programming in Python

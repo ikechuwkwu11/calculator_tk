@@ -18,9 +18,11 @@ A simple, beginner-friendly graphical calculator built using Python and Tkinter.
 - Graceful error handling for invalid expressions
 
 ## 🛠 Tech Stack
-- Layer	Technology
-- Language	Python
-- GUI Library	Tkinter (Standard Python GUI)
+| Layer    | Technology                            |
+| -------- | ------------------------------------- |
+| Language | Python                                |
+| GUI      | Tkinter (built-in Python GUI library) |
+
 
 🧠 What I Learned
 - Building a responsive GUI with Tkinter widgets and layout managers
